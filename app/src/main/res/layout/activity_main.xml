@@ -53,5 +53,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="O resultado vai aparecer aqui."
-        android:id="@+id/tvResultado"/>
+        android:id="@+id/tvResultado"
+        android:layout_gravity="center"
+        android:textSize="40sp"
+        android:layout_marginTop="30dp"/>
 </LinearLayout>
